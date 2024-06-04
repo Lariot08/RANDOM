@@ -1,10 +1,6 @@
 #--------------------------------------------------
-#--------DARK_TEAM_LENX--------
-#--------------------------------------------------
-#ENCODER : NAYAN SEKH
-#FACEBOOK : DEVIL VAU
-#GITHUB : LENX-SNEX
-#TELEGRAM : FUNKY-KING
+#FACEBOOK : Lariot ɭɭ
+#GITHUB : Mr Lariot08
 #--------------------------------------------------
 
 
